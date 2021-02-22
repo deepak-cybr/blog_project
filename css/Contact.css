@@ -1,0 +1,55 @@
+.navbar{
+    background-color:#bc8fa6;
+     color: whitesmoke;
+     
+}
+.nav-link{
+    color: whitesmoke;
+}
+
+.nav-link:hover{
+    color:whitesmoke;
+}
+.dropdown-item{
+    color: whitesmoke;
+}
+.dropdown-item:hover{
+    background-color:#bc8fa6 ;
+    color: whitesmoke;
+}
+.banner{
+    background-image: url("../img/home.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    
+    margin-top:56px;
+    background-position:center center;
+
+
+}
+
+.banner-title{
+    padding-top: 8rem;
+}
+.banner-title h1{
+background-color: #bc8fa6;
+  color:white;
+    height: 120px;
+    width: 350px;
+    opacity: 0.9;
+     border-radius: 20px;
+    display:inline-block;
+    padding: 10px;
+    margin: 0;
+}
+.btn{
+    background-color:  #bc8fa6;
+    color: white;
+}
+
+.footer{
+    background-color: dimgray;
+    color: white;
+    
+}
+

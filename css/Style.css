@@ -1,0 +1,114 @@
+#header{
+    background-color: rgb(42, 189, 238);
+    width: 100%;
+    height: 70px;
+}
+/*nav-section*/
+.navigation .bar{
+    padding: 20px;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.navigation{
+    margin-top: 15px;
+}
+
+.bar a{
+    color:white;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:white;
+
+}
+/*banner section left */
+.banner{
+ margin-top: 30px;
+}
+.img-section{
+    position: relative;
+}
+.calander{
+    position: absolute;
+    padding: 5px;
+    bottom:10px;
+    text-align: center;
+    right: 10px;
+    width: 80px;
+}
+.calander-text{
+    background-color: red;
+    color: white;
+    margin: 0;
+}
+.calander-para{
+    background-color: white;
+    margin: 0;
+}
+.banner-lower{
+    margin-top: 20px;
+}
+.banner-lower-text{
+    display: flex;
+    justify-content: space-between;
+}
+.banner-lower-text1 {
+    margin-left: 268px;
+}
+.para1{
+    margin-top: 20px;
+}
+.heading5{
+    margin-top: 50px;
+}
+.post-text{
+    margin-top: 20px;
+}
+.icon2{
+    margin-top: 15px;
+}
+.box{
+    background-color: red;
+    padding: 25px;
+    margin-top: 55px;
+}
+.popular-button{
+    margin-top: 30px;
+}
+.all button{
+    text-align: justify;
+    margin-top: 10px;
+}
+.contect-section{
+    background-color: rgb(16, 145, 196);
+}
+.contect-text{
+    padding: 30px;
+    color: white;
+}
+.contect-button{
+    float: right;
+}
+footer{
+    background-color:rgb(19, 38, 56);
+    
+  }
+  .left1{
+      color: white;
+      margin-top: 20px;
+      
+  }
+  .footer-list{
+      list-style-type: none;
+  }
+  .footer-text{
+      margin-top: 10px;
+  }
+  footer hr{
+    background: red;
+    
+  }
+  
